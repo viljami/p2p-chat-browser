@@ -1,0 +1,36 @@
+.input-container {
+  width: 100%;
+  height: 50px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  font-size: 16px;
+  margin: 0;
+}
+
+.input-container p {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.input-container textarea {
+  width: calc(100% - 50px);
+  height: 100%;
+  border: 0px solid #fff;
+  margin: 0;
+  font-size: 16px;
+}
+
+.input-container button {
+  position: absolute;
+  right: 0;
+  top: 0;
+  border: 0px solid #fff;
+  background-color: #55f;
+  color: #fff;
+  height: 100%;
+  width: 50px;
+  margin: 0;
+}

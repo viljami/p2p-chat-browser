@@ -1,0 +1,12 @@
+.message {
+  position: relative;
+  /*margin: 12px 5px 5px 5px;*/
+  padding: 20px 5px 5px 5px;
+  margin: 0;
+}
+
+.message span {
+  position: absolute;
+  top: 2px;
+  left: 5px;
+}
